@@ -9,5 +9,5 @@ You want to know more information about the project above. You only need inbox L
 <div>Result</div>
 <img src="ketqua_saucung01.JPG"><img>
   
-<img src="ketqua_saucung01.JPG"><img>
+<img src="ketqua_saucung02.JPG"><img>
 
